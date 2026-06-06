@@ -2,6 +2,13 @@
 
 > Real-time city sustainability intelligence platform powered by AI, IoT sensors, and open data APIs.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-arclight--ai.vercel.app-5B5EF4?style=for-the-badge&logo=vercel&logoColor=white)](https://arclight-ai.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+
+🌐 **Live:** [https://arclight-ai.vercel.app](https://arclight-ai.vercel.app)
+
 ![ArcLight AI](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200&h=400)
 
 ## 🌆 Overview
@@ -65,7 +72,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to see the result.
+Open [http://localhost:3000](http://localhost:3000) to run locally, or visit the live demo at [https://arclight-ai.vercel.app](https://arclight-ai.vercel.app).
 
 ---
 
