@@ -9,7 +9,7 @@
 
 🌐 **Live:** [https://arclight-ai.vercel.app](https://arclight-ai.vercel.app)
 
-![ArcLight AI](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200&h=400)
+![ArcLight AI](C:\Users\goyal\OneDrive\Pictures\Screenshots\Screenshot 2026-06-06 174301.png)
 
 ## 🌆 Overview
 
@@ -92,7 +92,7 @@ See [`.env.example`](.env.example) for all required variables.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing](https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&q=80&w=800&h=400)
+![Landing](C:\Users\goyal\OneDrive\Pictures\Screenshots\Screenshot 2026-06-06 174301.png)
 
 ### Command Center Dashboard
 Real-time KPIs, energy graphs, waste distribution, and live activity feed.
